@@ -10,6 +10,9 @@ export default {
     fontFamily: {
       sans: "var(--font-geist-sans)",
     },
+    gridTemplateRows: {
+      app: "min-content max-content",
+    },
   },
   plugins: [],
 } satisfies Config;
